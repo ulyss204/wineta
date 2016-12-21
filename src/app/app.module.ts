@@ -23,7 +23,7 @@ import { WineService } from './wines/wine.service';
       
     ])
   ],
-  providers: [WineService],
+  
   bootstrap: [AppComponent]
 })
 export class AppModule { }
